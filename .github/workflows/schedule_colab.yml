@@ -24,4 +24,4 @@ jobs:
 
     - name: Run Colab Script
       run: |
-        python your_colab_script.py
+        python 네이버_뉴스_클리핑.py
