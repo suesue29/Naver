@@ -20,7 +20,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install -r requirements
+        pip install -r suesue29/Naver/requirements.txt
 
     - name: Run Colab Script
       run: |
